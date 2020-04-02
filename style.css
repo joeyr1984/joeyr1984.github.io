@@ -1,5 +1,8 @@
 body{
     background-color: #0F2027;
+    font-family: boucherie-block, sans-serif;
+    font-style: normal;
+    font-weight: 400;
 }
 #hello {
     color: white;
