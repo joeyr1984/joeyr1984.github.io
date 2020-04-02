@@ -5,8 +5,11 @@ body{
     font-family: boucherie-block, sans-serif;
     font-style: normal;
     font-weight: 400;
+    color: white;
 }
 #hello {
-    color: white;
     text-align: center;
+}
+li {
+    display: inline;
 }
